@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-dare-lora-merge"
+description = "An experiment about combining multiple LoRAs with [a/DARE](https://arxiv.org/pdf/2311.03099.pdf)"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/ntc-ai/ComfyUI-DARE-LoRA-Merge"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-DARE-LoRA-Merge"
+Icon = ""
